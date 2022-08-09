@@ -5,7 +5,6 @@
 <div>
   <a href="https://beacons.ai//danielcwbrs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielcwbrs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcwbr&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div>
   <img align="center" alt="Dani-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
