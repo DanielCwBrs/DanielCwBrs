@@ -1,7 +1,6 @@
 ### Olá!👋 Eu sou o Daniel Amaral Pereira
 
 - 🔭 Hoje trabalho com back-end C# .Net Core
-- 🌱 Estudando Docker & Java
 
 <div>
   <a href="https://beacons.ai//danielcwbrs">
